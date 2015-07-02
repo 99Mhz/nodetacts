@@ -10,13 +10,14 @@
     "contacts",
     "address"
   ],
-  "repository" :
-  { "type" : "git", 
-    "url" : "https://github.com/99Mhz/nodetacts.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/99Mhz/nodetacts.git"
   },
   "author": "john wiltse",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "mongodb": "^2.0.35"
   }
 }
