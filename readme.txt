@@ -1,14 +1,6 @@
-# nodetacts
-
 node contacts (nodetacts.js)
 
-Summery:
-nodetacts.js is a simple contact appliction written in node 
-using mongodb to store the contact info. I'm using this as a
-self teaching tool for node and mongodb.
-                
-Functional requirements:
-Build a node address book. keep contacts in mongoDB
+build a node address book. keep contacts in mongoDB
 to start with each field in contact will be a single value.
 Future changes will allow multiple phones etc.
 
@@ -31,16 +23,16 @@ Contact Document
     "contact" : {
         "firstname" : "John",
         "lastname" : "Wiltse",
-        "cellphone" : "123-456-7891",
+        "cellphone" : "206-715-8347",
         "housephone" : "",
         "workphone" : "",
         "email" : "speed99mhz@yahoo.com"
     },
     "address" : {
-        "number" : "8675309",
-        "street" : "123th ave se",
-        "city" : "green valley",
-        "state" : "colorado",
-        "zipcode" : "75397"
+        "number" : "28123",
+        "street" : "238th ave se",
+        "city" : "maple valley",
+        "state" : "washington",
+        "zipcode" : "98038"
     }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "nodetacts",
+  "version": "1.0.0",
+  "description": "contact list program. Learning node and mongo",
+  "main": "nodetacts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contacts",
+    "address"
+  ],
+  "repository" :
+  { "type" : "git", 
+    "url" : "https://github.com/99Mhz/nodetacts.git"
+  },
+  "author": "john wiltse",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
