@@ -34,7 +34,7 @@ Contact Document
         "cellphone" : "123-456-7891",
         "housephone" : "",
         "workphone" : "",
-        "email" : "speed99mhz@yahoo.com"
+        "email" : "foo@yahoo.com"
     },
     "address" : {
         "number" : "8675309",
